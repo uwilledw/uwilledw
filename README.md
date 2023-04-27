@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello Everyone, My name is William Edwards. I am a student at Boise CodeWorks learning valueble skills to be a full stack software developer. I love taking on challenges that will help me grow and expand my knowledge.
+My name is William Edwards. I am a student at Boise CodeWorks learning valueble skills to be a full stack software developer. I love taking on challenges that will help me grow and expand my knowledge.
 
 I am currently working in HTML, CSS, Javascript, Node.js, and Vue.
 
