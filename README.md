@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Hello Everyone, My name is William Edwards. I am a student at Boise CodeWorks learning valueble skills to be a full stack software developer. I love taking on challenges that will help me grow and expand my knowledge.
+
+I am currently working in HTML, CSS, Javascript, Node.js, and Vue.
+
+How to contact me
+Linkedin: https://www.linkedin.com/in/william-edwards-88140624a Gmail: williamedwards7717@gmail.com
+
+About Me:
+I enjoy doing outdoor activities like hunting, fishing, watching movies, and playing video games. I'm not good at golf but I still enjoy it.
+
 <!--
 **uwilledw/uwilledw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
