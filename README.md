@@ -8,7 +8,7 @@ How to contact me
 Linkedin: https://www.linkedin.com/in/william-edwards-88140624a Gmail: williamedwards7717@gmail.com
 
 About Me:
-I enjoy doing outdoor activities like hunting, fishing, watching movies, and playing video games. I'm not good at golf but I still enjoy it.
+I enjoy doing outdoor activities like hunting, fishing and playing golf as well as indoor activities like watching movies and playing video games.
 
 <!--
 **uwilledw/uwilledw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
