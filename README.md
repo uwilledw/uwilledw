@@ -4,8 +4,7 @@
 
 - I am currently learning Web Sockets and React.
 
-- How to contact me
-Linkedin: https://www.linkedin.com/in/william-edwards-88140624a Gmail: williamedwards7717@gmail.com
+- How to contact me: <a href="https://www.linkedin.com/in/uwilliamedwards/" target="blank"><img align="center" src="https://img.icons8.com/color/256/linkedin.png" height="30" title="William's LinkedIn"/></a>  Gmail: williamedwards7717@gmail.com
 
 - My Hobbies:
 I enjoy doing outdoor activities like hunting, fishing and playing golf as well as indoor activities like watching movies and playing video games.
