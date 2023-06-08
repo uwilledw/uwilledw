@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi there <img width="30px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png">, I'm William Edwards </h1>
 
 My name is William Edwards. I am a student at Boise CodeWorks learning valueble skills to be a full stack software developer. I love taking on challenges that will help me grow and expand my knowledge.
 
