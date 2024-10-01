@@ -2,7 +2,7 @@
 
 - I am a graduate from an intensive coding bootcamp that I took at CodeWorks. I am very pleased at the skills that I have gained and am excited to take on new challenges that will help me expand my knowledge
 
-- I am currently learning Web Sockets and React.
+- I am currently learning Django and React.
 
 - How to contact me: <a href="https://www.linkedin.com/in/uwilliamedwards/" target="blank"><img align="center" src="https://img.icons8.com/color/256/linkedin.png" height="30" title="William's LinkedIn"/></a>  Gmail: williamedwards7717@gmail.com
 
